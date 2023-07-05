@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center"> APTv2: Benchmarking Animal Pose Estimation and Tracking with a Large-scale Dataset and Beyond </h1>
 <p align="center">
 </p>
@@ -43,11 +44,13 @@ benchmark for animal pose estimation and tracking.
   
 # Results
 ## The comparison information of relevant datasets
+
 <img src="Figs/compare.png">
 
 <p align="justify">A comprehensive comparison between our APTv2 and existing datasets.<p>
 
 ## The performances of representative methods
+
 <figure>
 <img src="Figs/fig2.png">
 <figcaption align = "center"><b>Figure 1: Result(AP) of different models on the SF track of APTv2 with IMAGENET-1K (IN1K) , MS COCO, and AP-10K pre-training,respectively.ALL, EASY,and HARD denote the entire validation set, and its east and hard subsets,respectively.</a>  
@@ -73,6 +76,7 @@ benchmark for animal pose estimation and tracking.
 </figure>
 
 ## Dataset Statistics and Analysis
+
 <figure>
 <img src="Figs/chart.png">
 <figcaption align = "center"><b>Figure 5: APTv2 covers 30 distinct animal species across 15 different families. It features a significant number of annotated frames with numerous annotated animal instances from a large collection of video clips.</a>  
