@@ -4,13 +4,10 @@
 </p>
 <h5 align="center"><em>Yuxiang Yang, Yufei Xu, Yingqi Deng, Jing Zhang</em></h5>
 <p align="center">
-  <a href="#news">News</a> |
-  <a href="#introduction">Abstract</a> |
-  <a href="#usage">Usage</a> |
+  <a href="#introduction">Introduction</a> |
   <a href="#results">Results</a> |
-  <a href="#statement">Statement</a>
+  <a href="#statement">Statement</a> |
 </p>
-
 # Introduction
 <p>
 
