@@ -4,7 +4,7 @@
 <h1 align="center"> APTv2: Benchmarking Animal Pose Estimation and Tracking with a Large-scale Dataset and Beyond </h1>
 <p align="center">
 </p>
-<h5 align="center"><em>Yuxiang Yang, Yufei Xu, Yingqi Deng, Jing Zhang</em></h5>
+<h5 align="center"><em>Yuxiang Yang, Yufei Xu, Yingqi Deng, Jing Zhang, Dacheng Tao</em></h5>
 <p align="center">
   <a href="#introduction">Introduction</a> |
   <a href="#results">Results</a> |
