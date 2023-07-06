@@ -11,6 +11,7 @@
 <p>
 
 <p align="justify">APTv2 is an extension of APT36K, increasing the number of animal instances from  53,006  to 84,611.We split APTv2 into easy and hard subsets based  on the number of instances that exists in the frame. 
+  
 # Results
 ## The performances of representative methods
 
