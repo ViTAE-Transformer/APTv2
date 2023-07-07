@@ -32,6 +32,14 @@
 </figure>
 
 <figure>
+<figcaption align = "center"><b>Results (AP) of HRNet-w32 (Sun et al., 2019) models on the “Leave one out” setting of APTv2, where
+only easy subset is used for training.</a>  
+ </b></figcaption>
+ <img src="Figs/fig5.png">
+</figure>
+
+
+<figure>
 <figcaption align = "center"><b>The "Results (AP) of HRNet-w32 (Sun et al., 2019), ViTPose-B (Xu et al., 2022), ViTPose-L (Xu et al., 2022) in the “low-data fine-tuning” setting.</a>  
  </b></figcaption>
  <img src="Figs/fig6.png">
