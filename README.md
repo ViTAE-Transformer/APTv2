@@ -7,11 +7,10 @@
   <a href="#statement">Statement</a> |
 </p>
 
-<p align="center">
+
 | Dataset | <p>Dataset Link<br>(OneDrive)</p> | <p>ModelZoo Link<br>(OneDrive)</p> |
  | :----:| :----: | :----: |
  |<strong>APTv2</strong>|[Link](https://1drv.ms/f/s!AimBgYV7JjTlgckmLjVg2Z7B3DZXeQ?e=1gVLFe)|[Link](https://1drv.ms/f/s!AimBgYV7JjTlgchy6avyLWkksXeNJQ?e=t1iTNm)|
-</p>
 
 # Introduction
 <p>
