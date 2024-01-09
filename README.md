@@ -1,5 +1,6 @@
 <h1 align="center"> APTv2 </h1>
 <p align="center">
+  <a href="https://arxiv.org/abs/2312.15612"><img  src="https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg" ></a>
 </p>
 <p align="center">
   <a href="#introduction">Introduction</a> |
@@ -57,13 +58,13 @@ only easy subset is used for training.</a>
 <p align="justify">If you are interested in our work, please consider citing the following:</p>
 
 ```
-@article{yang2022apt,
-  title={Apt-36k: A large-scale benchmark for animal pose estimation and tracking},
-  author={Yang, Yuxiang and Yang, Junjie and Xu, Yufei and Zhang, Jing and Lan, Long and Tao, Dacheng},
-  journal={Advances in Neural Information Processing Systems},
-  volume={35},
-  pages={17301--17313},
-  year={2022}
+@misc{yang2023aptv2,
+      title={APTv2: Benchmarking Animal Pose Estimation and Tracking with a Large-scale Dataset and Beyond}, 
+      author={Yuxiang Yang and Yingqi Deng and Yufei Xu and Jing Zhang},
+      year={2023},
+      eprint={2312.15612},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 <p align="justify">This project is under MIT licence.</p>
