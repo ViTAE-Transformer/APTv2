@@ -83,5 +83,17 @@ bash tools/dist_test.sh <Config PATH> <Checkpoint PATH> <NUM GPUs>
 ## Acknowledgement
 We acknowledge the excellent implementation from [mmpose](https://github.com/open-mmlab/mmdetection).
 
-## License
-This repository is released under MIT License (see LICENSE file for details).
+## Statement
+
+<p align="justify">If you are interested in our work, please consider citing the following:</p>
+
+```
+@misc{yang2023aptv2,
+      title={APTv2: Benchmarking Animal Pose Estimation and Tracking with a Large-scale Dataset and Beyond}, 
+      author={Yuxiang Yang and Yingqi Deng and Yufei Xu and Jing Zhang},
+      year={2023},
+      eprint={2312.15612},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
